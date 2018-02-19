@@ -1,2 +1,2 @@
-# research_env
+# Research Environment
 Docker file for building research image
